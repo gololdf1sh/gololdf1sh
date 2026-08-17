@@ -36,6 +36,13 @@ Public functional audits from that work:
 
 These live in private work repos — happy to walk through them on a call.
 
+## vyvchy.com
+
+Author of [vyvchy.com](https://vyvchy.com/) — a free QA learning platform in Ukrainian:
+14 sections of theory with real-world examples and interview pitfalls, quizzes with
+explained answers, flashcards for pre-interview review, diagnostics, and an AI
+mock-interview tool.
+
 ## Hire me
 
 CV and contacts: [djinni profile](https://djinni.co/q/a3f199abea/)
