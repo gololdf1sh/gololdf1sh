@@ -34,8 +34,6 @@ Public functional audits from that work:
 - A second skill that covers those cases with autotests — one verified test at a time
 - Explorbot (AI exploratory bot) daily in CI with LLM-triaged reports
 
-These live in private work repos.
-
 ## vyvchy.com
 
 Author of [vyvchy.com](https://vyvchy.com/) — a free QA learning platform in Ukrainian:
